@@ -1,0 +1,22 @@
+{
+  "name": "sientifica-ds",
+  "version": "0.1.0",
+  "description": "Sientifica Digital Signage ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mmuriel/sfc-ds.git"
+  },
+  "keywords": [
+    "Sientifica"
+  ],
+  "author": "@maomuriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmuriel/sfc-ds/issues"
+  },
+  "homepage": "https://github.com/mmuriel/sfc-ds#readme"
+}
