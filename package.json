@@ -30,6 +30,11 @@
     "directories": {
       "baseURL": "src"
     },
+    "dependencies": {
+      "jsx": "github:floatdrop/plugin-jsx@^1.2.1",
+      "react": "npm:react@^15.4.1",
+      "react-dom": "npm:react-dom@^15.4.1"
+    },
     "devDependencies": {
       "babel": "npm:babel-core@^5.8.24",
       "babel-runtime": "npm:babel-runtime@^5.8.24",
