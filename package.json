@@ -32,6 +32,7 @@
     },
     "dependencies": {
       "jsx": "github:floatdrop/plugin-jsx@^1.2.1",
+      "load-css-file": "npm:load-css-file@^1.0.0",
       "react": "npm:react@^15.4.1",
       "react-dom": "npm:react-dom@^15.4.1"
     },

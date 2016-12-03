@@ -18,6 +18,7 @@ System.config({
     "babel-runtime": "npm:babel-runtime@5.8.38",
     "core-js": "npm:core-js@1.2.7",
     "jsx": "github:floatdrop/plugin-jsx@1.2.1",
+    "load-css-file": "npm:load-css-file@1.0.0",
     "react": "npm:react@15.4.1",
     "react-dom": "npm:react-dom@15.4.1",
     "github:floatdrop/plugin-jsx@1.2.1": {
