@@ -10,7 +10,6 @@
 import React from 'react';
 import loadCss from 'load-css-file';
 
-
 /*
 	Project Modules
 */
