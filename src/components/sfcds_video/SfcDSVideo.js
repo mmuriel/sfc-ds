@@ -8,7 +8,7 @@ class SfcDSVideo extends React.Component{
 	render(){
 
 
-		return <div className="SfcDs video">VideoMMMM</div>;
+		return <div className="SfcDs video">Video</div>;
 
 	}
 
