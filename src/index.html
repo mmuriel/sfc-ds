@@ -10,7 +10,8 @@
         <script src="/jspm_packages/system.js"></script>
 	    <script src="/config.js"></script>
 	    <script>
-	        System.import('./startup'); //note no .js on this file
+	        System.import('./startup.js'); //note no .js on this file
+            //System.import('./components/App.js'); //note no .js on this file
 	    </script>
     </head>
     <body>
@@ -19,6 +20,6 @@
         <![endif]-->
 
         <!-- Add your site or application content here -->
-        <p>Test MM</p>
+        <div id="app"></div>
     </body>
 </html>
