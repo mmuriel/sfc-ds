@@ -1,0 +1,21 @@
+/* SfcDSDate.css */
+
+.SfcDSDate {
+
+	position: absolute;
+	
+	height: 22px;
+	max-width: 380px;
+	background-color: #EE3456;
+
+
+	/*
+
+		posicion
+
+	*/
+
+	top: 0px;
+	left: 0px;
+
+}

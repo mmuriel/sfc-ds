@@ -1,0 +1,64 @@
+.SfcDSTvGrid{
+
+	position: absolute;
+	
+	height: 188px;
+	width: 640px
+	background-color: #8790aa;
+
+
+	/*
+
+		posicion
+
+	*/
+
+	top: 262px;
+	left: 0px;
+	
+	
+}
+
+.SfcDSTvGridCompliment{
+
+
+	position: absolute;
+	
+	height: 30px;
+	width: 637px;
+	background-color: #873771;
+
+
+	/*
+
+		posicion
+
+	*/
+
+	top: 0px;
+	left: 0px;
+
+
+}
+
+.SfcDSTvGridMain{
+
+
+	position: absolute;
+	
+	height: 158px;
+	width: 637px;
+	background-color: #5720aa;
+
+
+	/*
+
+		posicion
+
+	*/
+
+	top: 30px;
+	left: 0px;
+
+
+}

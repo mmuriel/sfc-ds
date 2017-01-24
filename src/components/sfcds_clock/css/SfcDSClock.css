@@ -1,0 +1,21 @@
+/* SfcDSDate.css */
+
+.SfcDSClock {
+
+	position: absolute;
+	
+	height: 22px;
+	max-width: 200px;
+	background-color: #00aa00;
+
+
+	/*
+
+		posicion
+
+	*/
+
+	top: 0px;
+	right: 0px;
+
+}

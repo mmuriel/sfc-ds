@@ -1,0 +1,20 @@
+/* */
+.SfcDSHscroll{
+	position: absolute;
+	
+	height: 28px;
+	width: 637px;
+	background-color: #EE3456;
+
+
+	/*
+
+		posicion
+
+	*/
+
+	top: 450px;
+	left: 0px;
+
+
+}

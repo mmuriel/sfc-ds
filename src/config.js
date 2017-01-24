@@ -2,14 +2,6 @@ System.config({
   baseURL: "/",
   defaultJSExtensions: true,
   transpiler: "babel",
-  /* Original BabelOptions Def
-  babelOptions: {
-    "optional": [
-      "runtime",
-      "optimisation.modules.system"
-    ]
-  },
-  */
   babelOptions: {
     "stage": 0,
     "optional": [
@@ -26,6 +18,7 @@ System.config({
     "babel": "npm:babel-core@5.8.38",
     "babel-runtime": "npm:babel-runtime@5.8.38",
     "core-js": "npm:core-js@1.2.7",
+    "jquery": "npm:jquery@3.1.1",
     "react": "npm:react@15.3.2",
     "react-dom": "npm:react-dom@15.3.2",
     "github:jspm/nodelibs-assert@0.1.0": {
@@ -228,9 +221,6 @@ System.config({
     },
     "npm:string_decoder@0.10.31": {
       "buffer": "github:jspm/nodelibs-buffer@0.1.0"
-    },
-    "npm:ua-parser-js@0.7.12": {
-      "systemjs-json": "github:systemjs/plugin-json@0.1.2"
     },
     "npm:url@0.10.3": {
       "assert": "github:jspm/nodelibs-assert@0.1.0",
